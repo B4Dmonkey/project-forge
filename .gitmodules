@@ -1,3 +1,6 @@
 [submodule "templates/makefile-templates"]
 	path = templates/makefile-templates
 	url = git@github.com:B4Dmonkey/makefile-templates.git
+[submodule "pkgs/ExtendSqliteAndConnect"]
+	path = pkgs/ExtendSqliteAndConnect
+	url = git@github.com:B4Dmonkey/ExtendSqliteAndConnect.git
