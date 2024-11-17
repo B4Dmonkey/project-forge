@@ -4,3 +4,6 @@
 [submodule "pkgs/ExtendSqliteAndConnect"]
 	path = pkgs/ExtendSqliteAndConnect
 	url = git@github.com:B4Dmonkey/ExtendSqliteAndConnect.git
+[submodule "pkgs/landing-page"]
+	path = pkgs/landing-page
+	url = git@github.com:B4Dmonkey/landing-page.git
